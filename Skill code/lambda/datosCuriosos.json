@@ -1,0 +1,54 @@
+{
+    "datosCuriosos" : [
+        {
+            "id" : "1",
+            "dato" :"En la batalla de Chapultepec en 1848 estuvieron involucrados cerca de 50 cadetes, muchos miembros del Colegio Militar y casi 3 mil soldados, no sólo seis adolescentes castigados." ,
+            "urlImage" : "https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/4-BatallaChapu.png?alt=media&token=c983e93d-ecfe-4996-9ec0-ff0435ad7ab1"
+            
+        },
+        {
+            "id": "2",
+            "dato":"La icónica frase “Sufragio efectivo, no reelección” fue usada por el mismísimo Porfirio Díaz durante la última reelección de Benito Juárez en 1871.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/5-Sufragio.png?alt=media&token=2ee60c92-e866-47dd-bf00-2c0ce56a3cd1"
+        },
+        {
+            "id": "3",
+            "dato":"A cincuenta años de la culminación de la lucha independentista, sólo dos presidentes habían logrado terminar con su mandato: Guadalupe Victoria y Benito Juárez.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/6-GuadalupeBenito.png?alt=media&token=f2cd2bc9-296a-4639-9b97-70784f34c751"
+        },
+        {
+            "id": "4",
+            "dato":"La Residencia Oficial de los Pinos hace referencia a una huerta en Michoacán donde Lázaro Cárdenas conoció a su esposa, Amalia Solórzano",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/11-Pinos.png?alt=media&token=5247c936-f1d6-4367-a155-c76b06fa0435"
+        },
+        {
+            "id": "5",
+            "dato":"El himno nacional fue compuesto en 1854 por Francisco González Bocanegra y Jaime Nunó, pero no fue sino hasta 1943 que se hizo oficial.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/12-HimnoNacional.png?alt=media&token=a65a03be-b625-47fa-95fa-f344b3bb67d7"
+        },
+        {
+            "id": "6",
+            "dato":" Miguel Hidalgo no tocó la “Campana de la Independencia”, quien  realmente tocó la campana aquel día fue José Galván, el campanero de la parroquia.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/19-TocoCampana.png?alt=media&token=2f0df2d4-8967-4ab8-b1d6-54bfe46647af"
+        },
+        {
+            "id": "7",
+            "dato":"La campana de la parroquia de Dolores que utilizó Miguel Hidalgo el día del grito fue trasladada en 1896 desde Guanajuato hasta el Palacio Nacional en la Ciudad de México.l",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/20-TrasladoCampana.png?alt=media&token=9d03e3cc-16fb-4aec-b517-88f967b54419"
+        },
+                {
+            "id": "8",
+            "dato":"Ignacio Allende trató de envenenar a Miguel Hidalgo en varias ocasiones.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/23-EnvenenarMiguel.png?alt=media&token=3800a0d7-b6fe-489e-87b6-3f95fdb60a9e"
+        },
+                {
+            "id": "9",
+            "dato":" José María Morelos se volvió sacerdote a la edad de 24 años, con tal de recibir una herencia por parte de su bisabuelo Pedro Pérez Pavón.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/25-MariaMorelosSace.png?alt=media&token=164a3856-b190-40ba-9266-a0ef5549a831"
+        },
+                {
+            "id": "10",
+            "dato":"El título Benemérito de las Américas fue otorgado a Benito Juárez por la República Dominicana en 1867, por ver en él al líder americano que derrotó a las fuerzas europeas.",
+            "urlImage":"https://firebasestorage.googleapis.com/v0/b/alexa-img.appspot.com/o/57-Benemerito.jpg?alt=media&token=c409433b-110e-4086-aa61-5ab6ccf70372"
+        }]
+}
